@@ -2,3 +2,4 @@ pymatgen
 rdkit
 mp_api
 nglview
+ase
