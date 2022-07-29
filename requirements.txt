@@ -1,2 +1,3 @@
 pymatgen
 rdkit
+mp_api
