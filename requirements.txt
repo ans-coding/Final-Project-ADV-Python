@@ -3,3 +3,4 @@ rdkit
 mp_api
 nglview
 ase
+matplotlib
